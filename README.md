@@ -13,6 +13,8 @@
 [![zh-Hans](https://img.shields.io/badge/lang-zh--Hans-white)](https://github.com/kevindkchan/kevindkchan/blob/main/README.zh-Hans.md)\
 [![fr-CA](https://img.shields.io/badge/lang-fr--CA-white)](https://github.com/kevindkchan/kevindkchan/blob/main/README.fr-CA.md)
 
+Hi, I'm Kevin and I'm currently a third year studying computing science at the University of Alberta.
+
 # Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kevindkchan&theme=dark#gh-dark-mode-only" />
